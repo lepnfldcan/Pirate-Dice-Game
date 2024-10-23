@@ -1,7 +1,3 @@
-Here’s a revised version of your README without hashtags:
-
----
-
 **Dice Game**
 
 A simple and interactive dice game created as part of a beginner web development course. This project started with template files provided by the course lecturer, but I've made significant modifications to the styling and appearance to make it my own.
@@ -56,9 +52,4 @@ Contributions are welcome! If you'd like to improve the game, please follow thes
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Contact**
-
-For questions or feedback, feel free to reach out to me at [your-email@example.com].
-
----
-
-Feel free to replace the placeholders with your specific information. Let me know if you need any further adjustments!
+lparsons@gmail.com
