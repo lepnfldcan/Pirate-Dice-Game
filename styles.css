@@ -1,0 +1,84 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice-button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.dice img {
+  width: 250px;
+  max-width: none;
+}
+
+button img {
+  width: 250px;
+  height: 250px;
+}
+
+/* Style adjustments for dice */
+.dice {
+  text-align: center;
+  display: inline-block;
+  text-shadow: 3px 3px #040000;
+  width: 30%;
+}
+
+button {
+  background-color: transparent;
+  font-family: Unifranktorcook;
+  padding-bottom: 2px;
+  font-size: 3em;
+  text-shadow: #f30909;
+  font-weight: 900;
+  font-style: italic;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button:active {
+  background-color: #f30909;
+  border: #030000;
+  border-radius: 10%;
+}
+
+img {
+  width: 80%;
+  max-width: 150px;
+}
+
+body {
+  background-color: #ebd5b3;
+}
+
+h1 {
+  margin: 20px;
+  font-family: "unifrakturCook", cursive;
+  font-weight: 800px;
+  text-shadow: 5px 0 #ce1c45;
+  font-size: 8rem;
+  color: #040000;
+}
+
+p {
+  font-size: 2rem;
+  color: #e9f2ef;
+  font-family: "unifrakturCook", cursive;
+}
+
+footer {
+  font-size: x-large;
+  margin-top: 5%;
+  color: #030000;
+  text-align: center;
+  font-family: "arial bold";
+}
